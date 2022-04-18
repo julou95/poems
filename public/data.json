@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Eskimo",
+    "text": "Gibt’s im Iglu ein Getöse, fickt der Eskimo die Eskimöse.",
+    "nsfw": true,
+    "language": "de"
+  },
+  {
+    "id": 2,
+    "title": "Rapid",
+    "text": "Blau, Grüen, Rot\nRapid bis in Tod.",
+    "nsfw": false,
+    "language": "ch"
+  },
+  {
+    "id": 3,
+    "title": "English",
+    "text": "English english and some english.",
+    "nsfw": false,
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "title": "Vier Jahreszeiten",
+    "text": "Im Winter ist es halt schon so gehalten\ndas durch die Kälte die Haut wird gespalten.\nIm Frühling aber wieder mehr Wärme man verspührt\nund von alleine die Libido glüht.\nDer Sommer hat es ganz Dick\nsind die Miniröcke ganz schick.\nJa der Herbst ist doch die beste Zeit\ndie geschwängerte doch zur Hochtzeit schreit.\nAlso liebe Schnupfgemeinschaft sei hier kurz gesagt, \nvögeln nicht schnupfen, gibt eine Vaterschafts Klag!",
+    "nsfw": false,
+    "language": "de"
+  },
+  {
+    "id": 5,
+    "title": "Tell sprach",
+    "text": "Tell sprach zu den Eidgenossen, \nwer nicht schnupft der wird erschossen.\nda kam der Gessler mit geschrei,\nund verbiet die Schnupferei.\nDoch der Tell ganz im verdruss,\nverpasst dem Gessler einen Schuss,\nDa war schluss mit dem verbann,\njetzt schnupfte wieder jeder Mann.",
+    "nsfw": false,
+    "language": "de"
+  }
+]
