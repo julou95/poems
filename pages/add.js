@@ -2,7 +2,6 @@ import React, { useState } from 'react'
 import Icons from '../src/components/Icons'
 import Filters from '../src/components/Filters'
 import styles from '../styles/Add.module.css'
-import fs from 'fs'
 
 
 function Add({ data =[] }) {
@@ -18,7 +17,6 @@ function Add({ data =[] }) {
       nsfw: true,
       language: 'en',
     });
-    fs.writeFile('/public/config.json', JSON.stringify(newData));
   }
 
   return (
